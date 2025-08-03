@@ -61,6 +61,8 @@ The system is cross-platform and can run on Windows, Linux, and macOS, provided 
 ✅ Conclusion
 This speech recognition system showcases how pre-trained models and open-source tools can be combined to build practical, real-world applications. It demonstrates the intern’s understanding of audio processing, machine learning, and Python development. This project serves as a stepping stone for more advanced systems involving real-time transcription, multi-language support, and voice command execution
 
+output
+
 [task2 output.txt](https://github.com/user-attachments/files/21563965/task2.output.txt)
 
 
